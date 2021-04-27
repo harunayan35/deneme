@@ -4,4 +4,4 @@
 
 Alt Bilgidir.
 
-[lorem ipsum] (http://google.com)
+[lorem ipsum](http://google.com)
